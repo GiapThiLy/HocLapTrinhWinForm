@@ -1,0 +1,10 @@
+D:\tài liệu GTL\học lập trình winform-GTL\HocLapTrinhWinForm\WindowGUI\WindowGUI\bin\Debug\WindowGUI.exe.config
+D:\tài liệu GTL\học lập trình winform-GTL\HocLapTrinhWinForm\WindowGUI\WindowGUI\bin\Debug\WindowGUI.exe
+D:\tài liệu GTL\học lập trình winform-GTL\HocLapTrinhWinForm\WindowGUI\WindowGUI\bin\Debug\WindowGUI.pdb
+D:\tài liệu GTL\học lập trình winform-GTL\HocLapTrinhWinForm\WindowGUI\WindowGUI\obj\Debug\WindowGUI.csprojResolveAssemblyReference.cache
+D:\tài liệu GTL\học lập trình winform-GTL\HocLapTrinhWinForm\WindowGUI\WindowGUI\obj\Debug\WindowGUI.Properties.Resources.resources
+D:\tài liệu GTL\học lập trình winform-GTL\HocLapTrinhWinForm\WindowGUI\WindowGUI\obj\Debug\WindowGUI.csproj.GenerateResource.Cache
+D:\tài liệu GTL\học lập trình winform-GTL\HocLapTrinhWinForm\WindowGUI\WindowGUI\obj\Debug\WindowGUI.exe
+D:\tài liệu GTL\học lập trình winform-GTL\HocLapTrinhWinForm\WindowGUI\WindowGUI\obj\Debug\WindowGUI.pdb
+D:\tài liệu GTL\học lập trình winform-GTL\HocLapTrinhWinForm\WindowGUI\WindowGUI\obj\Debug\WindowGUI.Form1.resources
+D:\tài liệu GTL\học lập trình winform-GTL\HocLapTrinhWinForm\WindowGUI\WindowGUI\obj\Debug\WindowGUI.DSTruyen.resources
